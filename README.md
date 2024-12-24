@@ -48,7 +48,7 @@ This project focuses on analyzing historical housing market data from Ames, Iowa
 - Improved interpretability by categorizing ordinal variables like `Overall_Qual` into dummy variables (e.g., "Bad," "Good," "Excellent").
 - Insights derived from regression tables guide actionable recommendations for homeowners.
 
-![Regression Table Screenshot](#)
+![Improved Regression Table Screenshot](https://github.com/user-attachments/assets/7e98adb1-8e89-4cf3-b1f8-0fff0b3e2d51)
 
 ---
 
@@ -66,14 +66,16 @@ This project focuses on analyzing historical housing market data from Ames, Iowa
 ---
 
 ## Future Work
-- Explore the use of machine learning models (e.g., Random Forests, XGBoost) for improved prediction accuracy.
+- Explore the use of Python, SQL, and Machine Learning for optimized exploration and improved prediction accuracy.
 - Incorporate additional economic and market trend data to enhance the model.
-- Refine data cleaning and outlier handling processes for variables like `Lot_Frontage` and `Year_Remodel`.
+- Put more of a focus on data cleaning and outlier handling processes for key variables.
 
 ---
-
-## Full Report
-- The detailed report and presentation are available [here](#).
+## Relevant Files
+### Full Report
+- The detailed report and presentation are available [here](https://github.com/user-attachments/files/18234311/Ames.Final.Essay.Complete.docx)
+### Excel File
+- The reference material for the data exploration, cleaning, and analysis are available [here](https://github.com/user-attachments/files/18234340/Ames.Housing.Analysis.Reference.Material.xlsx)
 
 ---
 
