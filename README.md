@@ -73,9 +73,9 @@ This project focuses on analyzing historical housing market data from Ames, Iowa
 ---
 ## Relevant Files
 ### Full Report
-- The detailed report and presentation are available [here](https://github.com/user-attachments/files/18234311/Ames.Final.Essay.Complete.docx)
+- The detailed report is available [here](https://github.com/user-attachments/files/18234311/Ames.Final.Essay.Complete.docx)
 ### Excel File
-- The reference material for the data exploration, cleaning, and analysis are available [here](https://github.com/user-attachments/files/18234340/Ames.Housing.Analysis.Reference.Material.xlsx)
+- The reference material for the data exploration, cleaning, and analysis is available [here](https://github.com/user-attachments/files/18234340/Ames.Housing.Analysis.Reference.Material.xlsx)
 
 ---
 
